@@ -10,7 +10,7 @@
 <h1 align="center"> Welcome </h1>
 
 
-### :woman_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 I am a Statistician Economics who like programming and willing to become data scientist from Benin :benin: &nbsp;
 - 🔭 I’m currently working on my master thesis 
 - 🌱 I’m currently learning SQL, ML and AI
