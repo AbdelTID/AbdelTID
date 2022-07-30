@@ -5,7 +5,10 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AbdelTID&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<p align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm Abdel An'lah Tidjani </p>
+
+<h1 align="center"> Welcome </h1>
+
 
 ### :woman_technologist: &nbsp;About Me :
 I am a Statistician Economics who love programming and willing to become data scientist from Benin :benin: &nbsp;
