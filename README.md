@@ -6,7 +6,7 @@
 
 
 ### :man_technologist: &nbsp;About Me :
-I am a Statistician Economics who love programming and willing to become data scientist from Benin :benin: &nbsp;
+I am a Statistician Economics who love programming 
 - 🔭 I’m currently working on my master thesis 
 - 🌱 I’m currently learning SQL, ML and AI
 - 👯 I’m looking to collaborate on any interesting project to promote my portfolio 
