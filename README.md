@@ -35,12 +35,3 @@ I am a Statistician Economics who love programming
 </p>
 
 
----
-
-### 🔥 &nbsp; My Stats :
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdelTID&show_icons=true&theme=gotham" alt="AbdelTID" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelTID&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
